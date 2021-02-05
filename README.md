@@ -12,3 +12,5 @@ agregar al path padre permantemente
 sudo vim /etc/paths
 
 dentro del bin para salir presionar escape , luego wq para guardar y q! para salir
+abrir administrador de tareas
+comand alt scape
